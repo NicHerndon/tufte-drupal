@@ -26,4 +26,4 @@ Set this as the default theme: go to `admin/appearance` and click on `Set as def
 
 ## License
 
-Released under the MIT license. See LICENSE.
+Released under the MIT license. See [LICENSE](https://github.com/NicHerndon/tufte-drupal/blob/main/LICENSE).
